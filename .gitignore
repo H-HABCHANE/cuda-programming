@@ -12,6 +12,7 @@
 # Exécutables générés (même nom que le fichier .cu)
 vector_add
 matrix_mul
+matrix_add3
 
 # Dossiers de build
 build/
