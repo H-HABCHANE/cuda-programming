@@ -1,0 +1,28 @@
+# Fichiers compilés
+*.o
+*.obj
+*.so
+*.a
+*.ptx
+*.cubin
+*.fatbin
+*.out
+*.exe
+
+# Exécutables générés (même nom que le fichier .cu)
+vector_add
+
+# Dossiers de build
+build/
+bin/
+
+# Profilage
+*.nsys-rep
+*.ncu-rep
+*.qdrep
+
+# Éditeur / système
+.vscode/
+.idea/
+*.swp
+.DS_Store
