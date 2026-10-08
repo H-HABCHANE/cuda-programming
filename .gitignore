@@ -13,6 +13,7 @@
 vector_add
 matrix_mul
 matrix_add3
+reduction
 
 # Dossiers de build
 build/
